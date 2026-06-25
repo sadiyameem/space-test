@@ -108,7 +108,6 @@
 }
 
 .question__btn.question__btn_active {
-  background-color: lightgray;
   border-radius: 50%;
   color: black;
   width: 28px;
