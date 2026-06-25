@@ -18,5 +18,8 @@
 A challenge was the CSS since it wasn't looking the way I envisioned.
 I learned that CSS classes control the looks and actions of elements.
 
+# Note
+- In order to see the answers in the others boxes you have to click on the same sections as you did for the first box.
+
 # Image
 <img width="1366" height="596" alt="Screenshot 2026-06-25 at 6 13 01 PM" src="https://github.com/user-attachments/assets/89fca528-3e60-486e-80f4-6071374ca28d" />
